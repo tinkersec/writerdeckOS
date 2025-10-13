@@ -51,6 +51,7 @@ echo '/usr/bin/udiskie -N -F --no-notify-command >/dev/null 2>&1 &' >> /home/aut
 
 ln -s /media/author /home/author/USBs
 mkdir /home/author/Documents
+sudo chown author:author /home/author/Documents
 
 # Remove grub splashscreen to speed up boot time
 sudo sed -i 's/GRUB_TIMEOUT=5/GRUB_TIMEOUT=0/' /etc/default/grub
