@@ -10,8 +10,9 @@ Converts devices (eg laptop, raspberry pi, etc) into a writer deck, or a device 
 
 Install a "headless" (or Desktop Environment Free) version of Debian 12.10 "Bookworm": https://www.debian.org/releases/bookworm/
 
-Upload, chmod +x, and run the following script:
-https://github.com/tinkersec/writerdeckOS/blob/main/buildScript.sh
+Upload, chmod +x, and run the following scripts:
+- https://github.com/tinkersec/writerdeckOS/blob/main/buildScript.sh
+- https://github.com/tinkersec/writerdeckOS/blob/main/dependencies.list
 
 Then disconnect from wifi and enjoy.
 
