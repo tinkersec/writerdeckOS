@@ -2,7 +2,7 @@
 
 Note: This project is no longer supported. Issues posted will not be addressed. Pull requests will not be accepted. You are welcome to fork this code and continue the project or use the code within your project per the license agreement.
 
-writerdeckOS
+**writerdeckOS**
 
 Converts devices (eg laptop, raspberry pi, etc) into a writer deck, or a device solely designed around distraction free writing.
 
