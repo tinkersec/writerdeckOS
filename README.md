@@ -13,6 +13,7 @@ Install a "headless" (or Desktop Environment Free) version of Debian 12.10 "Book
 Upload, chmod +x, and run the following scripts:
 - https://github.com/tinkersec/writerdeckOS/blob/main/buildScript.sh
 - https://github.com/tinkersec/writerdeckOS/blob/main/dependencies.list
+- https://github.com/tinkersec/writerdeckOS/blob/main/wdmenu.sh
 
 Then disconnect from wifi and enjoy.
 
